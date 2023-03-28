@@ -1,0 +1,20 @@
+{
+    "name": "mauro.lima/folder",
+    "description": "inatu",
+    "autoload": {
+        "psr-4": {
+            "MauroLima\\Folder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mauro.lima"
+        }
+    ],
+    "require": {
+        "phpoffice/phpword": "^0.17",
+        "endroid/qr-code": "^3.7",
+        "dompdf/dompdf": "^0.8.5"
+       
+    }
+}
